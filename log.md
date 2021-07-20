@@ -1,30 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: July 20, 2021
+######
+**Today's Progress**: Did 3 Array Questions (Medium-level) and 2 questions of HashMap (Easy-level) from Must-Do-GFG list.
+<br> Did **Bonus** Stock Buy Sell Question from Dynamic Programming.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** I have struggled doing 5 questions in a day, thankfully, managed to do so today. Though I missed Web-Dev!
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
