@@ -25,3 +25,10 @@
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
 
+### Day 3: July 23, 2021
+######
+**Today's Progress**: Did 4 Array Questions (Medium-level) from PEP Level up module and Median of 2 sorted arrays in O(log(min(m,n))) and some web-dev.
+
+**Thoughts:** Enjoying the process!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
