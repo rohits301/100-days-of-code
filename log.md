@@ -37,4 +37,4 @@
 ######
 **Today's Progress**: Did web-dev only, no coding questions to submit, tried some coding tests.
 
-**Thoughts:** It feels tough to be honest to complete everday with sincerity, but yeah, I'm very much in the game!
+**Thoughts:** It feels tough, to be honest, to complete everyday with sincerity, but yeah, I'm very much in the game!
