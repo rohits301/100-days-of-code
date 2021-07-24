@@ -32,3 +32,9 @@
 **Thoughts:** Enjoying the process!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 4: July 24, 2021
+######
+**Today's Progress**: Did web-dev only, no coding questions to submit, tried some coding tests.
+
+**Thoughts:** It feels tough to be honest to complete everday with sincerity, but yeah, I'm very much in the game!
