@@ -38,3 +38,11 @@
 **Today's Progress**: Did web-dev only, no coding questions to submit, tried some coding tests.
 
 **Thoughts:** It feels tough, to be honest, to complete everyday with sincerity, but yeah, I'm very much in the game!
+
+### Day 5: July 25, 2021
+######
+**Today's Progress**: Started Responsive web design course @freecodecamp, participated in LeetCode weekly contest 251, upsolved 2 questions.
+
+**Thoughts:** It's challenging to maintain and intensity, have to find ways to keep the ball rolling!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
