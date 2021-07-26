@@ -46,3 +46,13 @@
 **Thoughts:** It's challenging to maintain and intensity, have to find ways to keep the ball rolling!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 6: July 26, 2021
+######
+**Today's Progress**: Started Basic CSS in Responsive web design course, done with basic HTML, solved 3 questions on Hashmap and Heaps (Must-Do-GFG).
+
+**Thoughts:** Tried short intense sessions of 30 mins followed by 5 mins break, seems fine till now!
+
+**Link to work:** 
+- [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate) 
+- [Responsive Web design by freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
