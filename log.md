@@ -56,3 +56,11 @@
 **Link to work:** 
 - [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate) 
 - [Responsive Web design by freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
+
+### Day 7: July 27, 2021
+######
+**Today's Progress**: Did 2 hashmap questions from must-do gfg and some questions from interview archives.
+
+**Thoughts:** Too much work, breaks mental peace and steals the fun, Prioritising and Chunking might help!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
