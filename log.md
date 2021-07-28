@@ -64,3 +64,9 @@
 **Thoughts:** Too much work, breaks mental peace and steals the fun, Prioritising and Chunking might help!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 8: July 28, 2021
+######
+**Today's Progress**: Did 1 question on sorting in arrays and Basic CSS in responsive design course.
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
