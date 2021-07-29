@@ -70,3 +70,11 @@
 **Today's Progress**: Did 1 question on sorting in arrays and Basic CSS in responsive design course.
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 8: July 29, 2021
+######
+**Today's Progress**: Did 1 question on searching in arrays and Basic CSS course completed.
+
+**Thoughts:** Felt good working for long periods and then taking breaks!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
