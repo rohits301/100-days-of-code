@@ -71,10 +71,18 @@
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
 
-### Day 8: July 29, 2021
+### Day 9: July 29, 2021
 ######
 **Today's Progress**: Did 1 question on searching in arrays and Basic CSS course completed.
 
 **Thoughts:** Felt good working for long periods and then taking breaks!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 10: July 30, 2021
+######
+**Today's Progress**: Started Bit manipulation, revised some web-development concepts and Operating Systems.
+
+**Thoughts:** Talking to people is better than scrolling through social media feed, the former has potential to add value most of the time!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
