@@ -86,3 +86,11 @@
 **Thoughts:** Talking to people is better than scrolling through social media feed, the former has potential to add value most of the time!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 11: July 31, 2021
+######
+**Today's Progress**: Did 1 question on hashmaps, revisited some Java concepts and some Resume preparation.
+
+**Thoughts:** Whenever overwhelmed, better switch context, come back later, switch to something fun for the moment!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
