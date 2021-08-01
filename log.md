@@ -94,3 +94,11 @@
 **Thoughts:** Whenever overwhelmed, better switch context, come back later, switch to something fun for the moment!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 12: Aug 1, 2021
+######
+**Today's Progress**: Did some bit manipulation questions, started Applied Visual Design.
+
+**Link to work:** 
+- [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+- [Responsive Web design by freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
