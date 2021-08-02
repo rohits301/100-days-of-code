@@ -102,3 +102,13 @@
 **Link to work:** 
 - [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
 - [Responsive Web design by freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
+
+### Day 13: Aug 2, 2021
+######
+**Today's Progress**: Did a variety of DSA questions, Applied Visual Design 50% done! :D
+
+**Thoughts:** Mindful breaks are refreshing. I HAVE LIVED MY LIFE BEAUTIFULLY!
+
+**Link to work:** 
+- [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+- [Responsive Web design by freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
