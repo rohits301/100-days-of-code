@@ -112,3 +112,11 @@
 **Link to work:** 
 - [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
 - [Responsive Web design by freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
+
+### Day 14: Aug 3, 2021 (Forgot to commit yesterday)
+######
+**Today's Progress**: Did some questions on Hashmaps
+
+**Thoughts:** I have done it >>> I want to do it !
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
