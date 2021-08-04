@@ -120,3 +120,11 @@
 **Thoughts:** I have done it >>> I want to do it !
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 15: Aug 4, 2021 
+######
+**Today's Progress**: Did some questions on Hashmaps and Greedy method.
+
+**Thoughts:** I have done it >>> I want to do it !
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
