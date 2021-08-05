@@ -128,3 +128,13 @@
 **Thoughts:** I have done it >>> I want to do it !
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 16: Aug 5, 2021 
+######
+**Today's Progress**: Did 1 Hashmap question, started 🚀 #30DaysOfML Challenge after procratinating for 3 days! 😀
+
+**Thoughts:** The key, for now, seems to be to keep going. As long as I'm on it, I'm going to get it done! 💪
+
+**Link to work:** 
+- [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+- [My first submission at Kaggle](https://www.kaggle.com/c/titanic/submissions)
