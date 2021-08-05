@@ -131,7 +131,7 @@
 
 ### Day 16: Aug 5, 2021 
 ######
-**Today's Progress**: Did 1 Hashmap question, started 🚀 #30DaysOfML Challenge after procratinating for 3 days! 😀
+**Today's Progress**: Did 1 Hashmap question, started 🚀 #30DaysOfML Challenge after procrastinating for 3 days! 😀
 
 **Thoughts:** The key, for now, seems to be to keep going. As long as I'm on it, I'm going to get it done! 💪
 
