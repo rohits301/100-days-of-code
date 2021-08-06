@@ -138,3 +138,11 @@
 **Link to work:** 
 - [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
 - [My first submission at Kaggle](https://www.kaggle.com/c/titanic/submissions)
+
+### Day 17: Aug 6, 2021 
+######
+**Today's Progress**: Started 2D arrays, 🚀 completed Day 2 of #30DaysOfML Challenge, learning Python basics.
+
+**Thoughts:** I'm gonna get it done! 💪
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
