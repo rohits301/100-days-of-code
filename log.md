@@ -146,3 +146,11 @@
 **Thoughts:** I'm gonna get it done! 💪
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 18: Aug 7, 2021 
+######
+**Today's Progress**: 1 question of 2D arrays, learning color theory in Responsive web design course.
+
+**Link to work:** 
+- [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+- [Responsive Web design by freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
