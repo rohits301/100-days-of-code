@@ -154,3 +154,11 @@
 **Link to work:** 
 - [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
 - [Responsive Web design by freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
+
+### Day 19: Aug 8, 2021 
+######
+**Today's Progress**: 2 questions of Graphs Data structure and a procrastinated question!
+
+**Thoughts:** 🚀 Do. 🎯
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
