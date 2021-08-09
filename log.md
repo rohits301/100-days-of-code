@@ -165,7 +165,7 @@
 
 ### Day 20: Aug 9, 2021 
 ######
-**Today's Progress**: 3 questions of Graphs from Must-Do-GFG list and some Visual Design in Responsive Design course! :D
+**Today's Progress**: 3 questions of Graphs from Must-Do-GFG list, completed Day 3 and Day 4 tasks of #30DaysofML Challenge and some Visual Design in Responsive web design course! :D
 
 **Thoughts:** 🚀 Do. 🎯
 
