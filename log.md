@@ -162,3 +162,13 @@
 **Thoughts:** 🚀 Do. 🎯
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 20: Aug 9, 2021 
+######
+**Today's Progress**: 3 questions of Graphs from Must-Do-GFG list and some Visual Design in Responsive Design course! :D
+
+**Thoughts:** 🚀 Do. 🎯
+
+**Link to work:** 
+- [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+- [Responsive Web design by freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
