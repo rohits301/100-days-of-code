@@ -172,3 +172,7 @@
 **Link to work:** 
 - [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
 - [Responsive Web design by freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
+
+### Day 21: Aug 10, 2021 
+######
+**Today's Progress**: Learning how to not screw myself up!
