@@ -176,3 +176,11 @@
 ### Day 21: Aug 10, 2021 
 ######
 **Today's Progress**: Learning how to not screw myself up!
+
+### Day 22: Aug 11, 2021 
+######
+**Today's Progress**: Attempted a LeetCode virtual contest, and upsolved 2 questions
+
+**Thoughts:** 🚀 I'm on it cap! 🎯
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
