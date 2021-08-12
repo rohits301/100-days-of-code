@@ -184,3 +184,12 @@
 **Thoughts:** 🚀 I'm on it cap! 🎯
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 23: Aug 12, 2021 
+######
+**Today's Progress**: Did Day 5 of 30DayMLChallenge, 1 DSA question
+
+**Thoughts:** I need a plan...
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
