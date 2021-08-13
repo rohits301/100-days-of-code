@@ -193,3 +193,10 @@
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
 
+### Day 24: Aug 13, 2021 
+######
+**Today's Progress**: Revised SQL and studied parts of DBMS, attempted a Virtual Contest, yet to upsolve. 1 array question done!
+
+**Thoughts:** Managed my day like a ninja! 🐱‍👤
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
