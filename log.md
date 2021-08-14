@@ -200,3 +200,11 @@
 **Thoughts:** Managed my day like a ninja! 🐱‍👤
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 25: Aug 14, 2021 
+######
+**Today's Progress**: Burning tree question done, did Day 6 of #30DaysOfML!
+
+**Thoughts:** React.js, Node.js are brewing!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
