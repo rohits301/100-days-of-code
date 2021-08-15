@@ -208,3 +208,11 @@
 **Thoughts:** React.js, Node.js are brewing!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 26: Aug 15, 2021 
+######
+**Today's Progress**: 1 question on Greedy, did Day 7 of #30DaysOfML!
+
+**Thoughts:** Started React.js, not updating in progress for now, let's see how much time I take to do it. Shot my second video for TOPG!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
