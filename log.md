@@ -216,3 +216,11 @@
 **Thoughts:** Started React.js, not updating in progress for now, let's see how much time I take to do it. Shot my second video for TOPG!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 27: Aug 16, 2021 
+######
+**Today's Progress**: 2 DSA questions!
+
+**Thoughts:** Lots of React.js, Lovely it is indeed! Day 1 of the TOPG course by TISA, amazing people to talk to, maza aaygya. Talked to Prottoy sir, let's see how things pan out! 😀
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
