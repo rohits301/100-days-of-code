@@ -224,3 +224,11 @@
 **Thoughts:** Lots of React.js, Lovely it is indeed! Day 1 of the TOPG course by TISA, amazing people to talk to, maza aaygya. Talked to Prottoy sir, let's see how things pan out! 😀
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 28: Aug 17, 2021 
+######
+**Today's Progress**: 1 DSA question, nothing else!
+
+**Thoughts:** Shot my 3rd YouTube video for TISA, figured out how to record zoom using obs. Stammered voluntarily, openly, maza aa gya!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
