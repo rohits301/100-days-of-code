@@ -232,3 +232,12 @@
 **Thoughts:** Shot my 3rd YouTube video for TISA, figured out how to record zoom using obs. Stammered voluntarily, openly, maza aa gya!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 29: Aug 18, 2021 
+######
+**Today's Progress**: 1 DSA question and an aptitude mock test for GS!
+
+**Thoughts:** Shot my 4th YouTube video for TISA, practised Bouncing and Prolongation techniques, concluded my BDI internship, did React.js a few more modules, doing well. Last but not least, had a wonderful conversation! 
+Though I missed essential tasks, everything else was done well! :D
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
