@@ -241,3 +241,11 @@
 Though I missed essential tasks, everything else was done well! :D
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 30: Aug 19, 2021 
+######
+**Today's Progress**: 1 Greedy method question and some revision!
+
+**Thoughts:** Shot my 5th YouTube video for TISA, practised Pausing technique, enjoyed React.js. Cribbed over CP, did 1 DSA question!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
