@@ -249,3 +249,11 @@ Though I missed essential tasks, everything else was done well! :D
 **Thoughts:** Shot my 5th YouTube video for TISA, practised Pausing technique, enjoyed React.js. Cribbed over CP, did 1 DSA question!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 31: Aug 20, 2021 
+######
+**Today's Progress**: 1 Greedy method question!
+
+**Thoughts:** No videos, just a call and some technique, Great and Worthy advice by Sachin sir, practised Bouncing technique, enjoyed React.js. Struggling to get over the line! :/
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
