@@ -257,3 +257,12 @@ Though I missed essential tasks, everything else was done well! :D
 **Thoughts:** No videos, just a call and some technique, Great and Worthy advice by Sachin sir, practised Bouncing technique, enjoyed React.js. Struggling to get over the line! :/
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 32: Aug 21, 2021 
+######
+**Today's Progress**: Did 1 hard level question!
+
+**Thoughts:** Slogging! :/ Today Sachin sir cleared my huge doubt, moving on, WOW! Thanks life :)
+My mind was fucked up of less sleep, thanks to the PPTs, but yeah also some positive vibes from that too! So yeah, thanks to comedians for those laughs! 🎇✨
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
