@@ -266,3 +266,11 @@ Though I missed essential tasks, everything else was done well! :D
 My mind was fucked up of less sleep, thanks to the PPTs, but yeah also some positive vibes from that too! So yeah, thanks to comedians for those laughs! 🎇✨
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 33: Aug 22, 2021 
+######
+**Today's Progress**: Did 1 hard question
+
+**Thoughts:** Slogging yet again! :( TISA session was good, recorded video all was nice, but still struggling to get it all together, things are falling apart, gotta figure it out! The week's been pretty bad, didn't quite code, no contest nothing. 33 days are gone!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
