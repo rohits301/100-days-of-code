@@ -282,3 +282,22 @@ My mind was fucked up of less sleep, thanks to the PPTs, but yeah also some posi
 **Thoughts:** Missed the TOPG class for a test, did okayish in it though not enough. React.JS is pretty good, have done challenge-1 till now, hope to complete more this week. Sleep correction is in progress! The coming 33 days are gonna be worth it, I'm giving it my all :cat-smile: 😻
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 35: Aug 24, 2021 
+######
+**Today's Progress**: Did 1 DSA question to keep streak alive, not done very willingly
+
+**Thoughts:** Talked to many people on phone, chilling yet insightful experience, love how everyone is willing talks to me, carry the topic forward. A suggestion, let other person complete their sentence, then speak to avoid any confusion. <br>
+Some ups and downs, some rejections and I think I'm pretty dead inside by now of the sleeplessness. Barely living on the drug of comedy! :( :/ 😢😢
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 36: Aug 25, 2021 
+######
+**Today's Progress**: Did 1 DSA question to keep streak alive
+
+**Thoughts:** This is too much, can't take it anymore, I WANT TO BREAK FREE !! <br>
+I am glad things worked out in the end but I'm worn out man, extremely tired! <br>
+So many dreams buried under my pillow, don't think I can achieve even one of them! 😭
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
