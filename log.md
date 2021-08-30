@@ -298,6 +298,14 @@ Some ups and downs, some rejections and I think I'm pretty dead inside by now of
 
 **Thoughts:** This is too much, can't take it anymore, I WANT TO BREAK FREE !! <br>
 I am glad things worked out in the end but I'm worn out man, extremely tired! <br>
-So many dreams buried under my pillow, don't think I can achieve even one of them! 😭
+So many dreams buried under my pillow, don't feel I can achieve even one of them! 😭
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 37-41: Aug 26 - Aug 30, 2021 
+######
+**Progress**: Did atleast 1 DSA question daily and ReactJS on the side!
+
+**Thoughts:** Forgot to tweet or commit, but have been working daily. <br> Going through the roller coaster with a smile on my face and a clean heart. No matter what happens, I am going to give it my all. <br> Positive action with positive affirmations!! 💪💪
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
