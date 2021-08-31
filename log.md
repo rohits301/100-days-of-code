@@ -309,3 +309,11 @@ So many dreams buried under my pillow, don't feel I can achieve even one of them
 **Thoughts:** Forgot to tweet or commit, but have been working daily. <br> Going through the roller coaster with a smile on my face and a clean heart. No matter what happens, I am going to give it my all. <br> Positive action with positive affirmations!! 💪💪
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 38: Aug 31, 2021 
+######
+**Progress**: Did 1 DSA question, back on track!
+
+**Thoughts:** Things aren't as bad as I thought them to be, GLAD TO BE BACK!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
