@@ -317,3 +317,11 @@ So many dreams buried under my pillow, don't feel I can achieve even one of them
 **Thoughts:** Things aren't as bad as I thought them to be, GLAD TO BE BACK!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 39: 1st Sept, 2021 
+######
+**Progress**: Did 2 DSA question, rising star!⭐
+
+**Thoughts:** Maza aaya, TISA TOPG karke, today I knew the answer and the teacher asked me to tell, over the moon 🌜, promise completed! Hooraay, hoezaay!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
