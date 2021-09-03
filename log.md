@@ -325,3 +325,21 @@ So many dreams buried under my pillow, don't feel I can achieve even one of them
 **Thoughts:** Maza aaya, TISA TOPG karke, today I knew the answer and the teacher asked me to tell, over the moon 🌜, promise completed! Hooraay, hoezaay!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 40: 2nd Sept, 2021 
+######
+**Progress**: Did 2 DSA question barely! phew!⭐
+
+**Thoughts:** Concluded my TOPG course, all tasks done! Thank you everyone, Hooray!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 41: 3rd Sept, 2021 
+######
+**Progress**: Did 3 sorting questions! Old enemie become new friends 😎
+
+**Thoughts:** All videos, live now!! Did ReactJS and 
+
+**Link to work:** 
+- [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+- [Mapping Components in React - Practice](https://codesandbox.io/s/mapping-components-practice-forked-wmcri?file=/src/components/App.jsx)
