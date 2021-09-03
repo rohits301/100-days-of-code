@@ -336,7 +336,7 @@ So many dreams buried under my pillow, don't feel I can achieve even one of them
 
 ### Day 41: 3rd Sept, 2021 
 ######
-**Progress**: Did 3 sorting questions! Old enemie become new friends 😎
+**Progress**: Did 3 sorting questions! Old enemies become new friends 😎
 
 **Thoughts:** All videos, live now!! Did ReactJS and 
 
