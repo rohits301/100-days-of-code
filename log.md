@@ -338,8 +338,27 @@ So many dreams buried under my pillow, don't feel I can achieve even one of them
 ######
 **Progress**: Did 3 sorting questions! Old enemies become new friends 😎
 
-**Thoughts:** All videos, live now!! Did ReactJS and 
+**Thoughts:** All videos, live now!! Did ReactJS
 
 **Link to work:** 
 - [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
 - [Mapping Components in React - Practice](https://codesandbox.io/s/mapping-components-practice-forked-wmcri?file=/src/components/App.jsx)
+
+### Day 42: 4th Sept, 2021 
+######
+**Progress**: Segmented Sieve problem, application of Sieve of Eratosthenes!
+
+**Thoughts:** Discussed great books! Got some recommendations as well. <em>Gotta stop the need to please others</em> 😐
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 43: 5th Sept, 2021 
+######
+**Progress**: Did an Interview question - Partition array into equal sum subsets
+
+**Thoughts:** Happy Teacher's Day to everyone who has ever taught me, and lastly to myself and my life too! 🤟🤟🙏 <br> Got my TOPG certificate, though it has <strong>sepling wron (!)</strong>
+
+**Link to work:** 
+- [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+- [JavaScript ES6 functions Map/Filter/Reduce - Practice](https://codesandbox.io/s/map-filter-reduce-forked-s5kvp?file=/src/index.js)
+
