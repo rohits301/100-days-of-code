@@ -362,3 +362,10 @@ So many dreams buried under my pillow, don't feel I can achieve even one of them
 - [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
 - [JavaScript ES6 functions Map/Filter/Reduce - Practice](https://codesandbox.io/s/map-filter-reduce-forked-s5kvp?file=/src/index.js)
 
+### Day 44: 6th Sept, 2021 
+######
+**Progress**: Just 1 ques!
+
+**Thoughts:** Lagging on my schedule, prepared a plant to catch-up :)
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
