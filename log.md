@@ -369,3 +369,11 @@ So many dreams buried under my pillow, don't feel I can achieve even one of them
 **Thoughts:** Lagging on my schedule, prepared a plant to catch-up :)
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 45: 7th Sept, 2021 
+######
+**Progress**: 2 ques
+
+**Thoughts:** .
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
