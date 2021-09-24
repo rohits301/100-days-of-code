@@ -385,3 +385,28 @@ So many dreams buried under my pillow, don't feel I can achieve even one of them
 **Thoughts:** Great day, learnt a lot through struggle. RaGa (Mazza aaya)!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 47-50: 9th - 12th Sept, 2021 
+######
+**Progress**: 1 ques done daily, some backlog cleared!
+
+**Thoughts:** Heading for a break to avoid burnout!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day <em>-ahem-</em>: 13th - 19th Sept, 2021 
+######
+**Progress**: I'M ON A BRRREAAAKKKK!
+
+**Thoughts:** Read a nice book, talked to lots of people!
+<br>
+
+<em> IT FEELS LIKE A THOUSAND YEARS... 3000 :-)</em>
+
+### Day 51-54: 20th - 23th Sept, 2021 
+######
+**Progress**: 2 DSA ques done daily!
+
+**Thoughts:** Have planned to complete Level-2 Arrays and Strings module! Going Strong 💪💪!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
