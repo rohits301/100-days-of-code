@@ -410,3 +410,11 @@ So many dreams buried under my pillow, don't feel I can achieve even one of them
 **Thoughts:** Have planned to complete Level-2 Arrays and Strings module! Going Strong 💪💪!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 55: 24th Sept, 2021 
+######
+**Progress**: Notes backlog cleared!
+
+**Thoughts:** Cleared a lot of clutter from my head and my desk, going 💪💪, going at my pace 🚶‍♂️🚶‍♂️!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
