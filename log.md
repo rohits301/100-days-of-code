@@ -442,3 +442,11 @@ So many dreams buried under my pillow, don't feel I can achieve even one of them
 **Thoughts:** A nice siesta just made my day again, had great study session with friends (always beneficial) 😇!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 59: 28th Sept, 2021 
+######
+**Progress**: Did 1 ques on strings!
+
+**Thoughts:** A nice siesta just made my day again (😇), and a good talk by Mel Robbins, thank you, waking up 30 mins earlier to throw bedsheets away 😄 <br>No holding back!
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
