@@ -450,3 +450,11 @@ So many dreams buried under my pillow, don't feel I can achieve even one of them
 **Thoughts:** A nice siesta just made my day again (😇), and a good talk by Mel Robbins, thank you, waking up 30 mins earlier to throw bedsheets away 😄 <br>No holding back!
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 60: 29th Sept, 2021 
+######
+**Progress**: Did 1 question on arrays - challenging but made interesting by awesome explanation in YouTube comments!
+
+**Thoughts:** This is probably the first time that I'm committing so early, and on time basically ;) !
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
