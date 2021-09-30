@@ -458,3 +458,11 @@ So many dreams buried under my pillow, don't feel I can achieve even one of them
 **Thoughts:** This is probably the first time that I'm committing so early, and on time basically ;) !
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 61: 30th Sept, 2021 
+######
+**Progress**: Did 1 question on arrays - keeping the streak alive!
+
+**Thoughts:** Overworked, avoid compromising on effort, it's tough but less than swallowing a gallop of guilt :/
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
