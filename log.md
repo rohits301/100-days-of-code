@@ -466,3 +466,11 @@ So many dreams buried under my pillow, don't feel I can achieve even one of them
 **Thoughts:** Overworked, avoid compromising on effort, it's tough but less than swallowing a gallop of guilt :/
 
 **Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
+
+### Day 62: 1st Oct, 2021 
+######
+**Progress**: Did 2 question on arrays - done with arrays for now!
+
+**Thoughts:** Relaxation, calming my nerves! 🙂
+
+**Link to work:** [Daily commits in Coding-Chocolate repo](https://github.com/rohits301/Coding-Chocolate)
